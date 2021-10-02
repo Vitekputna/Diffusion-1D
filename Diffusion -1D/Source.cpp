@@ -52,8 +52,6 @@ int main()
 	}
 	std::cout << "Done :)" << std::endl;
 
-	//M.animated_line(x,U.data_p,size,1,false);
-
 	system("pause");
 	U.print_to_file(name);
 	M.exit();
