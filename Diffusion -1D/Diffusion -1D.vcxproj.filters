@@ -18,18 +18,18 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="tenzor.cpp">
+    <ClCompile Include="matplot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="matplot.cpp">
+    <ClCompile Include="data.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="tenzor.h">
+    <ClInclude Include="matplot.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="matplot.h">
+    <ClInclude Include="data.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
